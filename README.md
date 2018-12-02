@@ -6,3 +6,4 @@ mnistが動きます
 
 
 refers to https://qiita.com/yuzupepper/items/e2d093f05adccbe1b7f1
+          http://segafreder.hatenablog.com/entry/2017/06/26/000000
